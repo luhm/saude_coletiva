@@ -1,0 +1,29 @@
+name: build-pdf
+
+on: [push]
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Instal Dependencies
+        run: |
+          chmod +x ./scripts/install_deps
+          ./scripts/install_deps
+        shell: bash
+
+      - name: Generate PDFs
+        run: |
+          chmod +x ./scripts/get_pdf
+          ./scripts/get_pdf docs
+        shell: bash
+
+      - name: Export PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: generated-pdf
+          path: ./pdf/**/*.pdf

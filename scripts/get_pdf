@@ -1,0 +1,45 @@
+#!/bin/bash
+
+function pdf() {
+
+	file=$1
+	echo "Starting conversion of $file to pdf..."
+
+	pandoc $file -f markdown -t html -o temp.html
+
+	echo "<head><meta charset="utf-8"/></head> 
+<style>@page{margin: 10mm;size: A4 portrait}
+</style>$(cat temp.html)" >temp.html
+
+	echo "Created temporary html"
+
+	dest="${file%%.*}.pdf"
+	source="temp.html"
+
+	echo "Saving file to $dest"
+
+	# wkhtmltopdf --disable-external-links --disable-internal-links --disable-local-file-access temp.html $dest
+
+	microsoft-edge --headless --disable-gpu --run-all-compositor-stages-before-draw \
+		--print-to-pdf="$dest" --print-to-pdf-no-header "$(pwd)"/temp.html
+
+	# sleep 0.5
+	rm temp.html
+	echo "Done"
+}
+
+if [ $# -ne 1 ]; then
+	echo "Provide path"
+	exit 1
+fi
+
+path=$1
+
+for file in $(find $path -name "*.md"); do
+	pdf $file
+done
+
+mkdir -p pdf
+for pdf in $(find $path -name "*.pdf"); do
+	mv $pdf ./pdf
+done

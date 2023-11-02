@@ -1,0 +1,46 @@
+site_name: Resumos
+copyright: 2023 Luiza H. Moretti
+repo_name: RESUMOS
+repo_url: https://github.com/nszchagas/RESUMOS
+
+theme:
+  name: material
+#  icon:
+#    logo: material/library-house
+  features:
+    - content.code.annotate
+    - content.code.copy
+ 
+  favicon: assets/icon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: purple
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+   - attr_list
+   - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Empreendedorismo:
+    - Informações Gerais: empreendedorismo/m4d1_empreendedorismo.md
+    - Conteúdo: empreendedorismo/emp_conteudo.md
+    - Avaliações: empreendedorismo/emp_avaliacoes.md
+    - Projeto: empreendedorismo/emp_projeto.md
+

@@ -1,0 +1,9 @@
+{
+  "pasteImage.basePath": "${currentFileDir}",
+  "pasteImage.path": "${currentFileDir}/assets",
+  "pasteImage.defaultName": "DDHHmmss",
+  "pasteImage.insertPattern": "\n${imageSyntaxPrefix}.${imageFilePath}${imageSyntaxSuffix}\n<fig></fig>\n",
+  "markdownlint.config": {
+    
+  }
+}
