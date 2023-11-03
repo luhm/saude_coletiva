@@ -1,7 +1,7 @@
-site_name: Resumos
+site_name: Saude Coletiva
 copyright: 2023 Luiza H. Moretti
 repo_name: RESUMOS
-repo_url: https://github.com/nszchagas/RESUMOS
+repo_url: https://luhm.github.io/saude_coletiva/
 
 theme:
   name: material
@@ -15,8 +15,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: pink
+      primary: custom
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Dark mode
@@ -38,9 +38,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Empreendedorismo:
-    - Informações Gerais: empreendedorismo/m4d1_empreendedorismo.md
-    - Conteúdo: empreendedorismo/emp_conteudo.md
-    - Avaliações: empreendedorismo/emp_avaliacoes.md
-    - Projeto: empreendedorismo/emp_projeto.md
+  - Saude Coletiva:
+    - Informações Gerais: saude_coletiva/m4d3_saude_coletiva.md
+    - Conteúdo: saude_coletiva/sc_conteudo.md
+    - Avaliações: saude_coletiva/sc_avaliacoes.md
+
 
