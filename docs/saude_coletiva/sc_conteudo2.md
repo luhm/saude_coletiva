@@ -1,4 +1,4 @@
-# <span style="color:#ee9b02">**UNIDADE 2**</span>
+# <span style="color:#EC6A00">**UNIDADE 2**</span>
 
 > Para defender o SUS é preciso ter também empatia com as pessoas que dependem exclusivamente do atendimento na rede, ou seja, não possuem acesso às clínicas, laboratórios ou hospitais particulares, o que equivale a mais de 70% da população brasileira.
 

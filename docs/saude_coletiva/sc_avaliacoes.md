@@ -1,6 +1,6 @@
-# <span style="color:#ee9b02">**AVALIAÇÕES**</span>
+# <span style="color:#EC6A00">**AVALIAÇÕES**</span>
 
-## FÓRUM - <span style="color:#ee9b02">ATÉ 22/11</span>
+## FÓRUM - <span style="color:darkorange">ATÉ 22/11</span>
 
 - [ ] FEITO
 - [ ] POSTADO
@@ -16,15 +16,15 @@ Critérios de avaliação:
   - Intervenção 1: responder as questões motivadoras do fórum (0,7).
   - Intervenção 2: comentar a resposta de um colega de turma de maneira crítica e reflexiva (0,3).
 
-## QME - UN 2 - <span style="color:#ee9b02">ATÉ 29/11</span>
+## QME - UN 2 - <span style="color:darkorange">ATÉ 29/11</span>
 
 - [ ] FEITO
 
-## ATV ABERTA - <span style="color:#ee9b02">ATÉ 22/11</span>
+## ATV ABERTA - <span style="color:darkorange">ATÉ 22/11</span>
 
 - [ ] FEITO
 - [ ] POSTADO
 
-## QME - UN 4 - <span style="color:#ee9b02">ATÉ 29/11</span>
+## QME - UN 4 - <span style="color:darkorange">ATÉ 29/11</span>
 
 - [ ] FEITO
