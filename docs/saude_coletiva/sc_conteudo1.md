@@ -1,6 +1,6 @@
-## UNIDADE 1
+# <span style="color:#ee9b02">**UNIDADE 1**</span>
 
-### HISTÓRICO
+## HISTÓRICO
 
 CUIDAR/CUIDADO
 
@@ -8,14 +8,14 @@ CUIDAR/CUIDADO
 
 _Reflexão_: Apenas os seres humanos tem esse instinto de cuidado?
 
-#### PRÉ HISTÓRIA
+### PRÉ HISTÓRIA
 
 > Os seres humanos são dependentes dos conhecimentos que foram passados geração após geração. (...)
 > O sobrenatural ou pensamento mágico ou místico reinava nesse período. Tudo estava ligado à religiosidade ou espiritualidade, inclusive os aspectos relacionados à saúde e à doença.
 
 Uso de plantas medicinais, ervas eméticas e rituais de cura - como trepanação de crânio.
 
-#### ANTIGUIDADE
+### ANTIGUIDADE
 
 EGÍPCIOS: Plantas medicionais, mumificação e escolas de saúde ligadas à religião;
 
@@ -31,11 +31,11 @@ GRÉCIA ANTIGA: pensamento simbólico e virtudes relacionadas aos vários deuses
 
 ROMA ANTIGA: cirurgias, descrição do sistema nervoso central
 
-#### IDADE MÉDIA
+### IDADE MÉDIA
 
 Pouco desenvolvimento da saúde; proibições pela Igreja: sem acesso a cadaveres, doença era pecado ou falta de fé; prescrições: rezas, exorcismos, imagens santas
 
-#### IDADE MODERNA
+### IDADE MODERNA
 
 - Doenças infecciosas: peste negra, sífilis, febre tifóide.
 - Ferimentos por arma de fogo.
@@ -43,7 +43,7 @@ Pouco desenvolvimento da saúde; proibições pela Igreja: sem acesso a cadavere
   - compilados e enciclopedias
 - microscópios
 
-#### IDADE CONTEMPORÂNEA
+### IDADE CONTEMPORÂNEA
 
 > A Idade Contemporânea, especialmente no século XVIII, foi marcada por um período de gigantes transformações na estrutura da sociedade (mudança do campo para as cidades), desenvolvimento industrial e tecnológico (revolução industrial), maior capacidade de transporte (criação da máquina a vapor) e do desenvolvimento do sistema capitalista. O período gerou muita miséria e fome (...) A caridade e cuidados gratuitos com a saúde eram realizados nas Santas Casas de Misericórdia da Igreja Católica, o que era muito pouco, já que a maior parcela da população não tinha nenhuma assistência à saúde.
 
@@ -56,7 +56,7 @@ No séc XVIII passou a pensar a saúde pública, como parte do cuidado com a mã
 - medicina de polícia (GER) - população era obrigada a cumprir medidas autoritárias do Estado
 - EUA: mercantilização da saúde
 
-### CONCEITOS
+## CONCEITOS
 
 | MODELO BIOMÉDICO                                                     | MODELO BIOPSICOSSOCIAL                                                                               |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -64,14 +64,14 @@ No séc XVIII passou a pensar a saúde pública, como parte do cuidado com a mã
 | doença é alteração no corpo                                          | doença é multifatorial                                                                               |
 | saude é ausência de sinais e sintomas                                | saude não é apenas ausência de doenças, mas considera questões sociais e psicológicas                |
 
-#### DOENÇA
+### DOENÇA
 
 > um conjunto de respostas desarmônicas do organismo frente aos estímulos patológicos (fatores causais ou etiológicos) (...) pode ser investigada por meio da descrição dos sintomas e da observação dos sinais clínicos.
 
 - caráter objetivo
 - prevenção
 
-#### SAÚDE
+### SAÚDE
 
 > A Organização Mundial da Saúde (OMS), em 1947, conceituou saúde como “o completo bem-estar físico, mental e social, e não somente a ausência de doenças ou enfermidades” (OMS, 2006).
 
@@ -83,7 +83,7 @@ No séc XVIII passou a pensar a saúde pública, como parte do cuidado com a mã
 
 ![Dimensões da saude integral](./assets/47.png)
 
-##### DETERMINANTES SOCIAIS DA SAÚDE
+#### DETERMINANTES SOCIAIS DA SAÚDE
 
 _Classe social, renda, escolaridade, acesso à educação, cultura, informação, esporte e lazer_
 
@@ -91,64 +91,8 @@ Modelo que leva em consideradarção os determinantes sociais da saude juntament
 
 ![Modelo dos determinantes sociais da saúde proposto por Solar e Irwin](./assets/c0.png)
 
-#### SAUDE-DOENÇA-CUIDADO
+### SAUDE-DOENÇA-CUIDADO
 
 - processo complexo e multifatorial
 - intersetorial: vários setorews da sociedade
 - escolas, universidades, igrejas, centros comunitários
-
-## UNIDADE 2
-
-> Para defender o SUS é preciso ter também empatia com as pessoas que dependem exclusivamente do atendimento na rede, ou seja, não possuem acesso às clínicas, laboratórios ou hospitais particulares, o que equivale a mais de 70% da população brasileira.
-
-> é preciso entender que o SUS é um jovem sistema, nascido em 1988, pouco antes do Brasil fazer 500 anos. Ou seja, foram quase 500 anos de negação da saúde pública como um direito de todos.
-
-### HISTÓRIA DA SAÚDE PUBLICA NO BRASIL
-
-[HISTÓRIA DA SAÚDE PUBLICA NO BRASIL](https://www.youtube.com/watch?v=L7NzqtspLpc)
-
-1. Quando a saúde pública foi criada pela primeira vez no Brasil? **No início do século XX**
-2. O modelo adotado por Getúlio Vargas até a criação do SUS foi o modelo de medicina da força do trabalho; explique o porquê. **Politicamente, Getúlio Vargas focava na valorização do sistema capitalista através da mão de obra, e agia como um representante do povo e das suas necessidades para atender o sistema, ao mesmo tempo que controlava a sociedade com diversas leis. Assim, aqueles que trabalhavam na forma da lei, com carteira assinada e seguindo todas as normas estabelecidas eram considerados cidadãos e tinham o suporte do governo quando se tratava de saúde, através de contribuições percentuais mensais do salário.**
-3. Houve um evento de saúde pública que marca o modelo de medicina de polícia; diga qual foi esse evento. **Foi a campanha de vacinação de 1904, que culminou na revolta da vacina**
-4. O que foi a reforma sanitária brasileira? Faça uma busca na internet sobre o assunto.
-
-#### BASES DO SUS
-
-_Artigo 196 da CF/1988_
-
-- princípio da universalidade - para todos, dever do estado
-- princípio da integralidade - promovida, protegida e recuperada
-- NÃO É UM DIREITO IMEDIATO
-- é programático, construido e melhorado com o tempo
-
-_Artigo 197 da CF/1988_
-
-- regulamentação das ações de saúde
-- fiscalização
-- controle
-- dereto ou através de terceiros
-- pessoa física ou jurídica
-
-_Artigo 198 da CF/1988_
-
-- princípio da descentralização
-  - autonomia política
-  - rede regionalizada
-  - doenças diferentes em regiões diferentes
-- atendimento integral
-  - atividade preventiva como prioridade
-- participação da comunidade
-  - diálogo
-  - conselhos de saúde
-  - conferencia de saúde
-- princípio da hierarquização
-  - Divisão por complexidade
-  - atenção primária, secundária e terciária
-  - 1ª pra 2ª, 2ª pra 3ª - chama-se referência
-  - 3ª para 1ª de volta - contrarreferência
-
-_Artigo 199 da CF/1988_
-
-## UNIDADE 3
-
-## UNIDADE 4

@@ -40,7 +40,11 @@ markdown_extensions:
 nav:
   - Saude Coletiva:
     - Informações Gerais: saude_coletiva/m4d3_saude_coletiva.md
-    - Conteúdo: saude_coletiva/sc_conteudo.md
+    - Conteúdo:
+      - Unidade 1: saude_coletiva/sc_conteudo1.md
+      - Unidade 2: saude_coletiva/sc_conteudo2.md
+      - Unidade 3: saude_coletiva/sc_conteudo3.md
+      - Unidade 4: saude_coletiva/sc_conteudo4.md
     - Avaliações: saude_coletiva/sc_avaliacoes.md
 
 
