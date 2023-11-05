@@ -49,3 +49,63 @@ _Artigo 198 da CF/1988_
   - 3ª para 1ª de volta - contrarreferência
 
 _Artigo 199 da CF/1988_
+
+- a saúde continua sendo possível à iniciativa privada
+- pode ser complementar ao SUS - PPP
+- proibição de comercio de órgãos
+  - tudo relacionado aos órgãos é responsabilidade do SUS - fiscalização
+
+_Artigo 200 da CF/1988_
+
+Competências do SUS:
+- controle e fiscalização de produtos, equipamentos e substâncias
+  - inclui remédios e alimentos
+  - inclui psicoativos, radioativos e tóxicos
+  - inclui bebidas e água
+- vigilância sanitária e epidemiológica
+- ordenar a formação de recursos humanos na área da saúde
+- políticas e execução de ações de saneamento básico
+- desenvolvimento científico e tecnológico
+- proteção ao meio-ambiente
+
+_Lei 8.080 de 19 de setembro de 1990_
+
+- objetivos e atribuições do SUS
+- princípios e diretrizes
+- da organização, da direção e da gestão do SUS
+- da competência de cada entidade federativa (união, estados e municípios) na saúde
+- do subsistema de saúde indígena
+- do subsistema de atendimento e internação domiciliar
+- da assistência da parturiente
+- da participação da iniciativa privada no SUS e de forma complementar
+
+_Lei 8.142 de 28 de dezembro de 1990:_
+
+- participação da comunidade no SUS
+- recursos financeiros e repasse de verbas
+
+### PRINCÍPIOS DOUTRINÁRIOS
+
+_Ideológicos_. São aqueles que são a base teórica do programa.
+
+<span style="color:orange">_Universalidade_</span>. Direito de todos. Inclusive estrangeiros no BR.
+
+<span style="color:orange">_Integralidade_</span>. Ser humano integral. Modelo biopsicossocial. Todos os aspectos da saúde, foco na prevenção.
+
+<span style="color:orange">_Equidade_</span>. Levar em consideração as diferenças de contexto das pessoas.
+
+### PRINCÍPIOS ORGANIZACIONAIS
+
+Organização do sistema e sua estrutura.
+
+<span style="color:orange">_Descentralização_</span>. Decisões em saúde nas três esferas de governo.
+
+<span style="color:orange">_Regionalização_</span>. Organização de acordo com as demandas de cada região. Laboratórios, hospitais, UBSs que atendam uma região específica.
+
+<span style="color:orange">_Hierarquização_</span>. Atenção primária, secundária e terciária.
+
+<span style="color:orange">_Participação popular_</span>. Conselhos de saúde e Conferências de saúde.
+
+## ATENDIMENTO HUMANIZADO
+
+
