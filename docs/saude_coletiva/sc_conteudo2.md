@@ -117,6 +117,7 @@ Saúde acolhedora, respeitosa, e não somente como pacientes.
 - vínculos solidários
 - Acolhimento, escuta ativa e classificação de risco
 
+#### <span style="color:orange">ATIVIDADE DE REFLEXÃO</span>
 Assista à matéria do Canal Futura [O atendimento humanizado na área da saúde](https://www.youtube.com/watch?v=T-q23TvfJ1E) e reflita:
 
 1. Como a humanização em saúde pode permitir melhores condutas e ações na área da saúde?
