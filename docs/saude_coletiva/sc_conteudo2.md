@@ -108,4 +108,52 @@ Organização do sistema e sua estrutura.
 
 ## ATENDIMENTO HUMANIZADO
 
+Saúde acolhedora, respeitosa, e não somente como pacientes.
 
+[_Política Nacional de Humanização_](https://bvsms.saude.gov.br/bvs/publicacoes/humanizasus_documento_gestores_trabalhadores_sus.pdf)
+- valorização do usuário, trabalhadores e gestores
+- permite maior autonomia, responsabilidade
+- construção de conhecimento
+- vínculos solidários
+- Acolhimento, escuta ativa e classificação de risco
+
+Assista à matéria do Canal Futura [O atendimento humanizado na área da saúde](https://www.youtube.com/watch?v=T-q23TvfJ1E) e reflita:
+
+1. Como a humanização em saúde pode permitir melhores condutas e ações na área da saúde?
+2. Por que é importante levar em consideração no tratamento do paciente os seus valores e concepções culturais?
+3. Como você pretende atuar enquanto futuro profissional de saúde em relação à humanização em saúde?
+
+### CLÍNICA AMPLIADA
+
+- ferramenta prática e teórica
+- trabalho em equipe
+  - multiprofissional ou multidisciplinar: cada profissional age de forma autônoma
+  - interdisciplinar: integra disciplinas com decisões conjuntas
+    - não ocorre na prática
+  - transdisciplinar: integração de várias áreas ao nível de conceitos e métodos, com decisões mais racionais e assertivas
+    - utópico
+- diálogo entre profissionais
+
+### PSICOLOGIA
+
+- principais reações frente a morte:
+  - a negação do problema
+  - adaptação frente ao problema
+- necessidades emocionais frente aos problemas de saúde e morte:
+  - resiliência
+  - coping / enfrentamento
+
+### ÉTICA EM SAÚDE
+
+_Bioética_ - ética aplicada à vida.
+- respeitar a equipe de trabalho
+- sigilo profisisonal
+- cuidado na relação com paciente
+- respeitar normas internas e externas
+  - códigos de ética e legislação
+- usar corretamente as mídias sociais
+- princípios:
+  - beneficiência: fazer o bem
+  - não maleficência: não gerar mal, evitar/calcular riscos
+  - autonomia: liberdade do paciente, livre participação
+  - justiça: equidade, distribuição de recursos para todos
