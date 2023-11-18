@@ -3,7 +3,7 @@
 ## FÓRUM - <span style="color:darkorange">ATÉ 22/11</span>
 
 - [X] FEITO
-- [ ] POSTADO
+- [X] POSTADO
 
 Segundo o Ministério da Saúde (2022), “o Sistema Único de Saúde (SUS) é um dos maiores e mais complexo sistema de saúde do mundo”... que possibilita o atendimento integral, efetivo e gratuito da população brasileira, garantindo um acompanhamento universal ao cidadão nos vários níveis de complexidade, sendo uma referência mundial em prevenção e promoção em saúde coletiva.
 Em paralelo, a população atendida possui uma percepção bem diferente em relação aos serviços prestados pelo SUS.
@@ -52,6 +52,13 @@ Durante a história da humanidade, vários Modelos em Saúde foram criados para 
 3. Conhecimentos/Habilidades/Características necessárias ao indivíduo (Pajé ou Xamã) que conduz o tratamento terapêutico: 
 
 4. Medicamentos/Utensílios/Técnicas utilizadas durante os procedimentos terapêuticos: 
+
+|                                           | Modelo Mágico Religioso | Modelo biomédico | Modelo biopsicossocial |
+| ----------------------------------------- | ----------------------- | ---------------- | ---------------------- |
+| Doença                                    | Algo do diabo/demônio/forças negativas sobrenaturais/, mágicas, pecado | Problema ou alteração no corpo, normalmente o corpo físico. | Doença é um conjunto de fatores que afeta a saude do física e mental do ser humano, causando um desequilíbrio. |
+| Saúde                                     | Sobrevivência, cuidado daqueles que serviriam ao coletivo, cumprindo o seu papel para com a sociedade. | Ausência de doença, sinais e sintomas delas. | É multifatorial, considerando questões mentais e sociais como fatores que afetam o equilíbrio do corpo e a capacidade funcional e a qualidade de vida da pessoa. |
+| Conhecimentos/<br/>Habilidades/<br/>Características | contato divino, conhecimentos da palavra de Deus ou dos deuses, da natureza, e das manifestações desses deuses na terra. É um poder mágico que só aquela pessoa escolhida tem acesso. | conhecimento sobre patógenos e possíveis alterações do corpo físico, internas ou externas, e seus sintomas. | conhecimentos em saude coletiva, epidemiologia, realidade social da comunidade e do paciente, bem como conhecimentos nas diversas áreas da medicina que podem ser afetas por um estado de doença. Por exemplo, um neurologista com conhecimento em psiquiatria e em pediatria, para conseguir um tratamento mais adequado e complexo pro paciente, pois o corpo não é formado por várias áreas separadas, mas de um conjunto de partes interdependentes. |
+| Medicamentos/<br/>Utensílios/<br/>Técnicas          | Rezas, rituais, palavras mágicas, óleos, chás e outros preparos com plantas específicas que possuem poderes especiais | Cada médico é especializado em uma área e as suas especificidades. | Visão integralista, de saude integral e trabalho em equipe. |
 
 ## QME - UN 4 - <span style="color:darkorange">ATÉ 29/11</span>
 
