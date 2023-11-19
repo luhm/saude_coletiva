@@ -42,8 +42,8 @@ Muito importante essa sua lembrança, principalmente pois cada vez mais os profi
 
 ## ATV ABERTA - <span style="color:darkorange">ATÉ 22/11</span>
 
-- [ ] FEITO
-- [ ] POSTADO
+- [X] FEITO
+- [X] POSTADO
 
 Durante a história da humanidade, vários Modelos em Saúde foram criados para atender as demandas e as necessidades das comunidades em relação ao seu processo de saúde e doença. O Modelo Mágico-Religioso foi o mais utilizado pelas sociedades Pré-históricas e da Antiguidade para estabelecer as suas práticas e os seus procedimentos terapêuticos, baseados em conhecimentos e em crenças culturais/religiosas muito diversas. Tal Modelo, ainda pode ser encontrado em sociedades tradicionais (indígenas e quilombolas) que apresentam um baixo acesso aos Modelos de Saúde mais modernos (Modelo Biomédico e Modelo Biopsicossocial) como o seu principal Sistema de Saúde Coletiva disponibilizado à sua população.  
 

@@ -1,9 +1,0 @@
-#!/bin/bash
-
-echo -e "\e[36mAdicionando tudo e commitando :D\e[0m"
-git add .
-git commit -m "update"
-git pull
-git push
-
-
