@@ -31,6 +31,10 @@ Critérios de avaliação:
 - Cada estudante deverá fazer, NO MÍNIMO, 2 (duas) intervenções/participações.
   - Intervenção 1: responder as questões motivadoras do fórum (0,7).
   - Intervenção 2: comentar a resposta de um colega de turma de maneira crítica e reflexiva (0,3).
+ 
+_Resposta à colega STEFANY RIBEIRO DA CUNHA ALBUQUERQUE (30 de outubro de 2023 12:02), em 16/11/2023 às 11:10_
+
+Muito importante essa sua lembrança, principalmente pois cada vez mais os profissionais novos profissionais chegam ao SUS mais bem preparados e com ideias mais frescas e atualizadas. Na área da Biomedicina o Prof. Samuel Dias é um exemplo de revolução dentro da estrutura organizacional dos laboratórios de análises clínicas públicos do SUS no DF, chegando à nossa rede publica de saúde com novas ideias e pensamento que buscava (e ainda busca) mudanças, melhorias e avanços.
 
 ## QME - UN 2 - <span style="color:darkorange">ATÉ 29/11</span>
 
