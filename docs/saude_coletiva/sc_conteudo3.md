@@ -83,3 +83,26 @@
   - quantitativas - valores numéricos
     - discretas: numeros inteiros, de contagem
     - contínuas: características mensuráveis, podem ser fracionados
+    
+> a frequência ou contagem absoluta dos casos não é indicada e não nos permite comparar duas localidades diferentes (...) o correto é utilizar a frequência relativa, que é representada pelas taxas ou coeficientes
+
+- a epidemiologia descritiva que apresenta os dados puramente, mas não analisa
+- os dados são relativos
+  - às pessoas
+    - quem são os sujeitos?
+  - ao espaço
+    - onde o problema aconteceu?
+  - ao tempo
+    - quando os eventos aconteceram?
+      - variações regulares: evento previsível
+        - tendência secular: gráficos que mostram o impacto, evolução futura na comunidade
+        - variação sazonal: gráficos pelo período de um ano (sazionalidade)
+        - variação ou flutuação cíclica: gráficos por um período x
+      - variações irregulares: não é previsível
+        - normalmente representam epidemias
+        - aumento inesperado de casos
+        - surto: em uma localidade específica
+        - pandemia: grandes áreas geográficas
+
+    ![imagem](classif das epidemias)
+
