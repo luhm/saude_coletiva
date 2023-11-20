@@ -10,6 +10,12 @@
 
 ## REFERÊNCIAS
 
-- [ ] [RELATÓRIO FLEXNER](https://www.scielo.br/j/rbem/a/QDYhmRx5LgVNSwKDKqRyBTy/?format=pdf&lang=pt)
+[RELATÓRIO FLEXNER](https://www.scielo.br/j/rbem/a/QDYhmRx5LgVNSwKDKqRyBTy/?format=pdf&lang=pt)
 
-- [ ] [DO MODELO BIOMEDICO AO BIOPSICOSSOCIAL](https://www.scielo.br/j/rbem/a/63Ck5wPNn4gxyN39SZfCZsv/?format=pdf&lang=pt)
+[DO MODELO BIOMEDICO AO BIOPSICOSSOCIAL](https://www.scielo.br/j/rbem/a/63Ck5wPNn4gxyN39SZfCZsv/?format=pdf&lang=pt)
+
+[ESPECIALIZAÇÃO EM ATENÇÃO BÁSICA - UNA-SUS](https://unasus2.moodle.ufsc.br/pluginfile.php/33459/mod_resource/content/3/AtencaoBasica_3Epidemiologia.pdf)
+
+[MÓDULO 6: controle de enfermindades na população - ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE](https://bvsms.saude.gov.br/bvs/publicacoes/modulo_principios_epidemiologia_6.pdf)
+
+
