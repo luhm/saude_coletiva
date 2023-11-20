@@ -54,4 +54,32 @@
 
 ### INDICADORES DE SAÚDE
 
+> qualquer dado ou variável qualitativa ou quantitativa que represente alguma informação sobre um indivíduo ou sobre a população estudada
 
+- padronização na representação e escrita de dados em saúde
+- diferentes regiões
+- planejamento e gestão de ações
+- o conceito é diferente de índice, mas na prática saõ usados juntos
+  - indicador é unidimensional, índice é multidimensional
+- principais:
+  - sociodemográficos
+  - de serviço
+  - nutricionais
+  - ambientais
+  - mortalidade
+  - morbidade
+- critérios de avaliação
+
+![imagem](criterios_aval_indicadores)
+
+#### VARIÁVEIS
+
+> são dados ou características de interesse medidas em cada elemento de uma amostra ou população
+
+- classificação:
+  - qualitativas
+    - nominais: não existe ordenação entre as categorias
+    - ordinais: existe uma ordenação entre as categorias
+  - quantitativas - valores numéricos
+    - discretas: numeros inteiros, de contagem
+    - contínuas: características mensuráveis, podem ser fracionados
