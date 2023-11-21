@@ -38,7 +38,48 @@ Muito importante essa sua lembrança, principalmente pois cada vez mais os profi
 
 ## QME - UN 2 - <span style="color:darkorange">ATÉ 29/11</span>
 
-- [ ] FEITO
+- [X] FEITO - 21/11, 8,0
+
+Pergunta 1 (1 ponto) - GSP-SC-UN-02-QME-07
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/e19b558d-5bf5-455f-bd90-02821cb4be21)
+
+Pergunta 2 (1 ponto) - GSP-SC-UN-02-QME-08
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/913298f1-69e2-42d4-bb6b-c73c3f055d03)
+
+Pergunta 3 (1 ponto) - GSP-SC-UN-02-QME-05
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/88addcf8-7d1e-4f30-9086-20ca63176232)
+
+Pergunta 4 (1 ponto) - GSP-SC-UN-02-QME-04
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/3cc144b5-da9a-44b3-baab-e35146fdee54)
+
+Pergunta 5 (1 ponto) - GSP-SC-UN-02-QME-09
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/dd210c40-0a4c-4dde-af95-8a44d839132e)
+
+Pergunta 6 (1 ponto) - GSP-SC-UN-02-QME-06
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/3b283b61-89ab-4e0e-bf51-5fb1cf208e87)
+
+Pergunta 7 (1 ponto) - GSP-SC-UN-02-QME-02
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/48003720-d651-4223-99bc-3fd8ea7334f5)
+
+Pergunta 8 (1 ponto) - GSP-SC-UN-02-QME-10
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/8fe2e183-241a-4509-86f9-c25606876322)
+
+Pergunta 9 (1 ponto) - GSP-SC-UN-02-QME-01
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/8910f241-8c2f-449b-ad48-ff0c44d3ca4f)
+
+Pergunta 10 (1 ponto) - GSP-SC-UN-02-QME-03
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/d2d586fc-d937-4d37-b6db-eccbb7822cee)
+
 
 ## ATV ABERTA - <span style="color:darkorange">ATÉ 22/11</span>
 
