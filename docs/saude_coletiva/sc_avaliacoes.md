@@ -108,3 +108,44 @@ Durante a história da humanidade, vários Modelos em Saúde foram criados para 
 ## QME - UN 4 - <span style="color:darkorange">ATÉ 29/11</span>
 
 - [ ] FEITO
+
+Pergunta 1 (1 ponto) - GSP-SC-UN-04-QME-06
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/bd2bf5ab-d0a8-497c-a24c-84bba4201f2c)
+
+Pergunta 2 (1 ponto) - GSP-SC-UN-04-QME-09
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/bbc3ae69-e946-4d3e-b69f-7291d26390f2)
+
+Pergunta 3 (1 ponto) - GSP-SC-UN-04-QME-03
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/54d29227-42bb-4dfc-b05a-fe20899e5750)
+
+Pergunta 4 (1 ponto) - GSP-SC-UN-04-QME-04
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/c6151cbd-57da-42ca-93ef-0fa852a93d59)
+
+Pergunta 5 (1 ponto) - GSP-SC-UN-04-QME-01
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/31a0eb05-5304-4c32-afc4-1d02d1578d9c)
+
+Pergunta 6 (1 ponto) - GSP-SC-UN-04-QME-07
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/f80b81a3-1959-422c-a6c3-155b52eba984)
+
+Pergunta 7 (1 ponto) - GSP-SC-UN-04-QME-05
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/cc4e8d85-47fc-4b1a-a5d4-9fa31ae8f05b)
+
+Pergunta 8 (1 ponto) - GSP-SC-UN-04-QME-10
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/d207c10d-05b8-496b-9179-cd5bf201ca41)
+
+Pergunta 9 (1 ponto) - GSP-SC-UN-04-QME-08
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/2592c07f-5573-448f-8598-d240c6f7a829)
+
+Pergunta 10 (1 ponto) - GSP-SC-UN-04-QME-02
+
+![image](https://github.com/luhm/saude_coletiva/assets/18331692/b67a456c-c21f-4546-b6d0-896b7109635b)
+
