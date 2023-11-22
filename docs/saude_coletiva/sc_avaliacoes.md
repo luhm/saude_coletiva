@@ -107,7 +107,7 @@ Durante a história da humanidade, vários Modelos em Saúde foram criados para 
 
 ## QME - UN 4 - <span style="color:darkorange">ATÉ 29/11</span>
 
-- [ ] FEITO
+- [X] FEITO
 
 Pergunta 1 (1 ponto) - GSP-SC-UN-04-QME-06
 
